@@ -19,7 +19,7 @@ This web site is the documentation for the theme and also provides examples of h
 
 [The blog]({{ site.baseurl }}{% link list/index.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
 
-<hr />
+<hr/>
 
 ### Recent Posts
 
