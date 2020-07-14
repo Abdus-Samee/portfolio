@@ -22,6 +22,9 @@ tags:
     <li>Eight - IU</li>
     <li>Someday, The Boy - Kim Feel</li>
     <li>Galway Girl - Ed Sheeran</li>
+    <li>Breath - Sam Kim</li>
+    <li>Stay With Me - ExoXPunch</li>
+    </li>Without Me - Halsey</li>
   </ul>
 
   <ul class="list" style="float: left;">
@@ -34,6 +37,11 @@ tags:
     <li>Believer - Imagine Dragons</li>
     <li>We Don't Talk Anymore - Charlie Puth & Selena Gomez</li>
     <li>Numb - Linkin Park</li>
+    <li>In Your Time - Lee Suhyun</li>
+    <li>Every Single Day - Still 17</li>
+    <li>How Long - Charlie Puth</li>
+    <li>Bad Liar - Imagine Dragons</li>
+    <li>Havana - Camila Cabello</li>
   </ul>
 </div>
 
@@ -41,7 +49,7 @@ tags:
 
 <script type="text/javascript">
   var player;
-  var video_id = 'isU6nmzMzVo';
+  var video_id = '9472qFt8AdI';
 
   function onYouTubeIframeAPIReady() {
     player = new YT.Player('video-placeholder', {
@@ -78,7 +86,7 @@ tags:
   $('.list').on('click', 'li', function() {
     var cls = $(this).text();
     var txt;
-    if (cls === "You're Cold - Heize") txt = "https://www.youtube.com/watch?v=isU6nmzMzVo";
+    if (cls === "You're Cold - Heize") txt = "https://www.youtube.com/watch?v=9472qFt8AdI";
     else if (cls === "Slowly Fall - A Piece of Your Mind") txt = "https://www.youtube.com/watch?v=qrO3-RbMFO8";
     else if (cls === "Go Away - Chanyeol & Punch") txt = "https://www.youtube.com/watch?v=h6TEh_wGgp0&list=RDMMh6TEh_wGgp0&start_radio=1";
     else if (cls === "Chandelier - Sia") txt = "https://www.youtube.com/watch?v=Tm6-SEfRoBA&list=RDMMh6TEh_wGgp0&index=2";
@@ -97,6 +105,14 @@ tags:
     else if (cls === "We Don't Talk Anymore - Charlie Puth & Selena Gomez") txt = "https://www.youtube.com/watch?v=3AtDnEC4zak";
     else if (cls === "Numb - Linkin Park") txt = "https://www.youtube.com/watch?v=kXYiU_JCYtU";
     else if (cls === "Bad Liar - Imagine Dragons") txt = "https://www.youtube.com/watch?v=NQAYb9ok4s0";
+    else if (cls === "Breath - Sam Kim") txt = "https://www.youtube.com/watch?v=90TbWjMcvjc";
+    else if (cls === "In Your Time - Lee Suhyun") txt = "https://www.youtube.com/watch?v=JDdxGkiOJJY";
+    else if (cls === "Every Single Day - Still 17") txt = "https://www.youtube.com/watch?v=Yh5d9Cs6XhU";
+    else if (cls === "How Long - Charlie Puth") txt = "https://www.youtube.com/watch?v=CwfoyVa980U";
+    else if (cls === "Stay With Me - ExoXPunch") txt = "https://www.youtube.com/watch?v=A8syhfGRx4A";
+    else if (cls === "Bad Liar - Imagine Dragons") txt = "https://www.youtube.com/watch?v=NQAYb9ok4s0";
+    else if (cls === "Without Me - Halsey") txt = "https://www.youtube.com/watch?v=J6enOG547lk";
+    else if (cls === "Havana - Camila Cabello") txt = "https://www.youtube.com/watch?v=egtD5GfAh58";
     else txt = "https://www.youtube.com/watch?v=B-He6EzP5zY";
     var video_id = txt.split('v=')[1];
     var ampersandPosition = video_id.indexOf('&');
