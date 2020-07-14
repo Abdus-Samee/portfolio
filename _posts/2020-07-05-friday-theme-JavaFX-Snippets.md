@@ -7,6 +7,7 @@ tags:
 
 I am currently doing some projects on JavaFX. Here in this blog, I've tried to gather some short queries I've had while doing these projects. These codes have been collected from the Internet and work perfectly. So to speak, these are mere code snippets, not a whole working code or package.
 
+<!--more-->
 
 
 <h3 style = "color: purple;">1. Converting java.awt BufferedImage to javafx.scene.image.Image</h3>
