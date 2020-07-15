@@ -76,3 +76,52 @@ new Runnable(){
 };
 {% endhighlight %}
 
+
+<h3 style = "color: purple;">6. Working with `javafx.animation.Timeline` class</h3>
+At first, the `Timeline` class is created with a preceeding `final` keyword as it immutable.
+{% highlight javascript%}
+      final Timeline timeline = new Timeline();
+{%endhighlight%}
+Then we create a `KeyValue` to be executred inside a `KeyFrame`. Remember, a single keyframe can hold multiple keyvalues to be occured at the same time. Keyvalues are those which mainly change the property. Keyframes are executed inside the timeline. A timeline can hold multiple keyframe childs.
+{% highlight javascript%}
+      final KeyValue kv = new KeyValue(initialProperty, finalProperty, Interpolator);
+      final KeyFrame kf = new KeyFrame(Duration, list of keyframes);
+      timeline.getKeyFrames().add(kf);
+{%endhighlight%}
+
+
+<h3 style = "color: purple;">7. Line drawing animation</h3>
+Here, we show on the stage that the line is being drawn with the help of `Timeline` class. Otherwise, we usually draw a line with `Line` class which just puts the line on the stage, but doesn't show the drawing on the go.
+We at first create the line as a point as follows. We must not forget to add the line as a child to the main container like, `anchorPane` in this case.
+{% highlight javascript%}
+      Line line = new Line();
+      line.setStartX(100.0);
+      line.setStartY(100.0);
+      line.setEndX(100.0);
+      line.setEndY(100.0);
+      line.setStroke(Color.RED);
+      anchorPane.getChildren().add(line);
+{%endhighlight%}
+Then we create the animation below with the endXProperty() increasing. Think why is it so.
+{% highlight javascript%}
+      final KeyValue kv = new KeyValue(line.endXProperty(), 400, Interpolator.EASE_IN);
+      final KeyFrame kf = new KeyFrame(Duration.seconds(2.0), kv);
+      timeline.getKeyFrames().add(kf);
+      timeline.play();
+{% endhighlight %}
+
+
+<h3 style = "color: purple;">8. Circle drawing animation</h3>
+We use the `Arc` class in order to draw a circle on the go with `Timeline` class. We change the `lengthProperty()` of the arc in animation. The circle only has a red-colored perimeter and so it is filled transparently.
+{% highlight javascript %}
+      Arc arc = new Arc(100.0, 100.0, 20.0, 20.0, 0.0, 0.0);
+      arc.setFill(Color.TRANSPARENT);
+      arc.setStroke(Color.RED);
+{% endhighlight %}
+Then the animation is usually the same as line animation.
+{% highlight javascript %}
+      final KeyValue kv = new KeyValue(arc.lengthProperty(), 380.0);
+      final KeyFrame kf = new KeyFrame(Duration.seconds(2.0), kv);
+      timeline.getKeyFrames().add(kf);
+      timeline.play();
+{% endhighlight %}
