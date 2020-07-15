@@ -24,3 +24,5 @@ I built this website in order to showcase my writings in various topics, special
 - Article on my interests
 - A simple curriculum vitae of mine
 - Links to my profiles on various platforms
+
+<hr style = "border:dotted #5e6f64 6px;border-bottom:none;width:4%;margin:100px auto;">
