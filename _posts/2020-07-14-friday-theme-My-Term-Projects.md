@@ -3,10 +3,10 @@ title: My Term Projects
 tags:
   - code
 images:
-  - /theme/img/dx1.png
-  - /theme/img/dx2.png
-  - /theme/img/dx3.png
-  - /theme/img/dx4.png
+  - /portfolio/theme/img/dx1.png
+  - /portfolio/theme/img/dx2.png
+  - /portfolio/theme/img/dx3.png
+  - /portfolio/theme/img/dx4.png
 ---
 
 This post demonstrates all the projects I've done in my undergrad life till now, including short description about each of them and the provided github repository link. The projects here are purely academic.
