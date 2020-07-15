@@ -1,10 +1,18 @@
 - caption: GitHub
   href: https://github.com/Abdus-Samee
   icon: entypo/github.svg
+  
+- caption: LinkedIn
+  href: https://www.linkedin.com/in/abdus-samee-9b6951195/
+  icon: entypo/linkedin.svg
 
 - caption: Stack Overflow
   href: https://stackoverflow.com/users/10532707/nehal-samee
   icon: icons/stackoverflow.svg
+  
+- caption: Code Review
+  href: https://codereview.stackexchange.com/users/160647/nehal-samee
+  icon: icons/code.svg
   
 - caption: Facebook
   href: https://www.facebook.com
