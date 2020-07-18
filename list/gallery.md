@@ -1,7 +1,7 @@
 ---
 title: My Gallery
 show_profile: true
-images:
+thumbnail:
  - /portfolio/theme/img/avatar.jpg
  - /portfolio/theme/img/gal1.jpg
  - /portfolio/theme/img/gal2.jpg
@@ -21,7 +21,7 @@ My collection of gallery.
 
 
 <div class="card-columns">
-  {% for img in page.images %}
+  {% for img in page.thumbnail %}
     <div class="card">
       <img class="card-img-top" src="{{ img }}" />
     </div>
