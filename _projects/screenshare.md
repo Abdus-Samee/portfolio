@@ -1,9 +1,9 @@
 ---
 title: Screen sharing between two PCs using Java
 images:
-  - /theme/img/sc-share1.png
-  - /theme/img/sc-share2.png
-  - /theme/img/sc-share3.png
+  - /portfolio/theme/img/sc-share1.png
+  - /portfolio/theme/img/sc-share2.png
+  - /portfolio/theme/img/sc-share3.png
 ---
 
 ## About
