@@ -1,10 +1,10 @@
 ---
 title: Node.js ToDo list app
 images:
-  - /theme/img/todo1.png
-  - /theme/img/todo2.png
-  - /theme/img/todo3.png
-  - /theme/img/todo4.png
+  - /portfolio/theme/img/todo1.png
+  - /portfolio/theme/img/todo2.png
+  - /portfolio/theme/img/todo3.png
+  - /portfolio/theme/img/todo4.png
 ---
 
 ## About
