@@ -16,7 +16,7 @@ images:
  - /portfolio/theme/img/sc-share3.png
 ---
 
-My collection of gallery. Click more to continue...
+My collection of gallery.
 
 
 <div class="card-columns">
