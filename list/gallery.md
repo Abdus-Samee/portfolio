@@ -7,6 +7,7 @@ images:
  - /portfolio/theme/img/gal2.jpg
  - /portfolio/theme/img/gal3.jpg
  - /portfolio/theme/img/gal4.png
+ - /portfolio/theme/img/gal5.png
  - /portfolio/theme/img/dx1.png
  - /portfolio/theme/img/dx2.png
  - /portfolio/theme/img/dx3.png
