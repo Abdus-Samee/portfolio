@@ -40,7 +40,14 @@ show_profile: true
         <li class="list-group-item list-group-item-info">Python</li>
       </ul>
     </li>
-    <li class="list-group-item"><b>EXPERIENCE:</b>
+    <li class="list-group-item"><b>CODING EXPERIENCE:</b>
+      <ul class="list-group">
+        <li class="list-group-item">Built JavaFX application with socket programming</li>
+        <li class="list-group-item">Made node.js app with server hosted on cloud</li>
+        <li class="list-group-item">Built interactive websites</li>
+      </ul>
+    </li>
+    <li class="list-group-item"><b>WORKING EXPERIENCE:</b>
       <div class="list-group">
         <div class="list-group-item">
           <div class="d-flex w-100 justify-content-between">
