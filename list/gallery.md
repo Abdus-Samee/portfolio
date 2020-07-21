@@ -1,6 +1,12 @@
 ---
 title: My Gallery
 show_profile: true
+images:
+ - /portfolio/theme/img/gal1c.jpg
+ - /portfolio/theme/img/gal2c.jpg
+ - /portfolio/theme/img/gal3.jpg
+ - /portfolio/theme/img/gal4c.png
+ - /portfolio/theme/img/gal5c.png
 ---
 
 <style>
@@ -45,8 +51,10 @@ show_profile: true
 My collection of gallery.
 
 
-<span class="css-sprite-gal1n"></span>
-<span class="css-sprite-gal2n"></span>
-<span class="css-sprite-gal3"></span>
-<span class="css-sprite-gal4n"></span>
-<span class="css-sprite-gal5n"></span>
+<div class="card-columns">
+  {% for img in page.images %}
+    <div class="card">
+      <img class="card-img-top" src="{{ img }}" />
+    </div>
+  {% endfor %}
+</div>
