@@ -12,21 +12,31 @@ images:
  - /portfolio/theme/img/gal5n.png
 ---
 
+<style>
+ .h:hover{
+  opacity: 0.5;
+ } 
+</style>
 
 My collection of gallery.
 
 
 <div class="card-columns">
     {% for img in page.images %}
-    <div class="card w-90" data-toggle="modal" data-target="#exampleModal" data-img="{{ img }}">
-        <img class="card-img-top" src="{{ img }}" />
+    <div class="card w-75" data-toggle="modal" data-target="#exampleModal" data-img="{{ img }}">
+        <img class="card-img-top h" src="{{ img }}" />
     </div>
     {% endfor %}
 </div>
 
 <div class="modal fade" id="exampleModal">
   <div class="modal-dialog modal-lg modal-dialog-centered">
-    <div class="modal-content">
+    <div class="modal-content w-75">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
       <div class="modal-body">
         <img class="modal-img w-100" />
       </div>
