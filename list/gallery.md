@@ -39,7 +39,23 @@ My collection of gallery.
         </button>
       </div>
       <div class="modal-body">
-        <img class="modal-img w-100" />
+        <div id="carouselExampleControls" class="carousel slide mb-4" data-ride="carousel">
+          <div class="carousel-inner">
+            {% for img in page.images %}
+              <div class="carousel-item">
+                <img src="{{ img }}" class="d-block w-100" alt="">
+              </div>
+            {% endfor %}
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -48,10 +64,26 @@ My collection of gallery.
 <script type="text/javascript">
   $(document).ready(function() {
     $('#exampleModal').on('show.bs.modal', function (event) {
+      var active = document.querySelector('.active')
+      if(active != null){
+        active.classList.remove('active')
+        console.log('Removed...')
+        console.log(active)
+      }
+      var arr = $('.carousel-item')
+      for(var i = 0; i < arr.length; i++){
+        if(arr[i].className.includes('active')){
+          console.log('Holds...')
+          console.log(arr[i])
+        }
+      }
       var button = $(event.relatedTarget)
       var img = button.data('img')
-      var modal = $(this)
-      modal.find('.modal-img').attr('src', img)
+      for(var i = 0; i < arr.length; i++){
+        if(arr[i].innerHTML.includes(img)){
+          arr[i].classList.add('active')
+        }
+      }
     })
   })
 </script>
