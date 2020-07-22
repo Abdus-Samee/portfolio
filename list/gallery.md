@@ -27,7 +27,7 @@ images:
 My collection of gallery.
 
 
-<div class="card-columns">
+<div style="visibility:hidden;" class="card-columns">
     {% for img in page.images %}
     <div style="overflow:hidden;" class="card img-thumbnail" data-toggle="modal" data-target="#exampleModal" data-img="{{ img }}">
         <img class="card-img-top zoom" src="{{ img }}" />
@@ -68,6 +68,8 @@ My collection of gallery.
 
 <script type="text/javascript">
   $(document).ready(function() {
+    $('.card-columns').css('visibility', 'visible')  
+  })
     $('#exampleModal').on('show.bs.modal', function (event) {
       var active = document.querySelector('.active')
       if(active != null){
@@ -90,5 +92,4 @@ My collection of gallery.
         }
       }
     })
-  })
 </script>
