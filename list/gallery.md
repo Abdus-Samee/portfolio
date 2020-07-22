@@ -14,9 +14,14 @@ images:
 ---
 
 <style>
- .h:hover{
-  opacity: 0.5;
- } 
+  .zoom{
+  transition: transform .2s;
+  }
+  .zoom:hover{
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+  }
 </style>
 
 My collection of gallery.
@@ -24,8 +29,8 @@ My collection of gallery.
 
 <div class="card-columns">
     {% for img in page.images %}
-    <div class="card w-75" data-toggle="modal" data-target="#exampleModal" data-img="{{ img }}">
-        <img class="card-img-top h" src="{{ img }}" />
+    <div style="overflow:hidden;" class="card img-thumbnail" data-toggle="modal" data-target="#exampleModal" data-img="{{ img }}">
+        <img class="card-img-top zoom" src="{{ img }}" />
     </div>
     {% endfor %}
 </div>
