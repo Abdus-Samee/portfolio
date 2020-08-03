@@ -2,9 +2,9 @@
 title: Drum playing site
 ---
 
-## About
-
 I made this website as a fun project. It uses JavaScript listener to listen to keypresses and mouse clicks on the alphabet-tagged buttons and play relevant sounds.
+
+<!--more-->
 
 ## Views
 
