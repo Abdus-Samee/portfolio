@@ -7,9 +7,9 @@ images:
   - /portfolio/theme/img/todo4.png
 ---
 
-## About
-
 A ToDo list node.js app built on localhost backed by a server. It has beautiful user interface which dynamically adds wishes to the list. The current date is also shown at the top. One can also check/uncheck one or more wishes on the list.
+
+<!--more-->
 
 ## Views
 
