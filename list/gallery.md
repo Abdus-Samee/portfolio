@@ -3,14 +3,14 @@ title: My Gallery
 show_profile: true
 images:
  - /portfolio/theme/img/avatar.jpg
- - /portfolio/theme/img/gal1n.jpg
  - /portfolio/theme/img/gal2n.jpg
  - /portfolio/theme/img/gal3.jpg
- - /portfolio/theme/img/gal4n.png
- - /portfolio/theme/img/gal5n.png
- - /portfolio/theme/img/sc-share1.png
- - /portfolio/theme/img/sc-share2.png
- - /portfolio/theme/img/sc-share3.png
+ - /portfolio/theme/img/fb_recep.jpg
+ - /portfolio/theme/img/fb_tour1.jpg
+ - /portfolio/theme/img/fb_tour2.jpg
+ - /portfolio/theme/img/fb_tour3.jpg
+ - /portfolio/theme/img/fb_college.jpg
+ - /portfolio/theme/img/fb_bdpho.jpg
 ---
 
 <style>
