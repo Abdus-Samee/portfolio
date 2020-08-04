@@ -45,7 +45,6 @@ I have provided links to my various sites. So use them if necessary and do give 
 
 <script>
   GitHubCalendar(".calendar", "Abdus-Samee", {
-    responsive: true,
-    tooltips: true
+    responsive: true
   });
 </script>
