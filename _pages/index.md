@@ -33,16 +33,16 @@ I have provided links to my various sites. So use them if necessary and do give 
 {% include components/post-card.html %}
 {% endfor %}
 
-<h2 class = "display-3"> Attention !</h2>
-<div class="alert alert-success" role="alert">
-  Don't forget to subscribe to my <a target = "_blank" href="https://rocky-mesa-67884.herokuapp.com/" class="alert-link">NewsLetter</a>. Give it a click if you like.
-</div>
-
 ### GitHub contributions
 
 <div class="container calendar">
   <!-- Loading stuff -->
   Loading the data just for you.
+</div>
+
+<h2 class = "display-3"> Attention !</h2>
+<div class="alert alert-success" role="alert">
+  Don't forget to subscribe to my <a target = "_blank" href="https://rocky-mesa-67884.herokuapp.com/" class="alert-link">NewsLetter</a>. Give it a click if you like.
 </div>
 
 <script>
