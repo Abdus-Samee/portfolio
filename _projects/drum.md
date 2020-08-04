@@ -10,7 +10,7 @@ I made this website as a fun project. It uses JavaScript listener to listen to k
 
 I tried to add a short video of the project in the following section:
 
-<video width="600" height="400" autoplay>
+<video width="600" height="400" controls>
   <source src="/portfolio/theme/img/drum.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
