@@ -4,13 +4,13 @@ show_profile: true
 images:
  - /portfolio/theme/img/avatar.jpg
  - /portfolio/theme/img/gal2n.jpg
- - /portfolio/theme/img/gal3.jpg
  - /portfolio/theme/img/fb_recep.jpg
  - /portfolio/theme/img/fb_tour1.jpg
  - /portfolio/theme/img/fb_tour2.jpg
- - /portfolio/theme/img/fb_tour3.jpg
- - /portfolio/theme/img/fb_college.jpg
  - /portfolio/theme/img/fb_bdpho.jpg
+ - /portfolio/theme/img/fb_tour3.jpg
+ - /portfolio/theme/img/gal3.jpg
+ - /portfolio/theme/img/fb_college.jpg
 ---
 
 <style>
