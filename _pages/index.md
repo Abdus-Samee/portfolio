@@ -15,6 +15,8 @@ title: Welcome to my Website
   gtag('config', 'UA-172779941-1');
 </script>
 
+<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"/>
 
 ## Introduction
 
@@ -30,8 +32,19 @@ I have provided links to my various sites. So use them if necessary and do give 
 {% include components/post-card.html %}
 {% endfor %}
 
+### GitHub contributions
+
+<div class="container calendar">
+  <!-- Loading stuff -->
+  Loading the data just for you.
+</div>
+
 <div class="alert alert-success" role="alert">
   Don't forget to subscribe to my <a target = "_blank" href="https://rocky-mesa-67884.herokuapp.com/" class="alert-link">NewsLetter</a>. Give it a click if you like.
 </div>
 
-
+<script>
+  GitHubCalendar(".calendar", "Abdus-Samee", {
+    responsive: true
+  });
+</script>
