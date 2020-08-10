@@ -4,6 +4,7 @@ images:
   - /portfolio/theme/img/wisey1.png
   - /portfolio/theme/img/wisey2.png
   - /portfolio/theme/img/wisey3.png
+  - /portfolio/theme/img/wisey4.png
 ---
 
 This is my first project on backend with NodeJS. I tried to incorporate the things I learn like templates, views, routing, mongodb database, authorization, session, cookies and 
