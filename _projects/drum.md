@@ -17,4 +17,4 @@ Your browser does not support the video tag.
 
 ## More
 
-The link to the GitHub repository of this project is [here](https://github.com/Abdus-Samee/PlayDrum). You can download the zip of the folder or git it. Enjoy it! I will try to build a complete set in the future.
+The link to the GitHub repository of this project is [here](https://github.com/Abdus-Samee/PlayDrum). You can download the zip of the folder or git it. Enjoy it! I will try to build a complete set in the future. You can also visit the site [on this link](https://abdus-samee.github.io/PlayDrum).
