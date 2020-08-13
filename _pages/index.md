@@ -34,8 +34,8 @@ I have provided links to my various sites. So use them if necessary and do give 
 
 ### GitHub contributions
 
-<div style="text-align:center;">
-  <img height="150" width="650" src="https://ghchart.rshah.org/Abdus-Samee" alt="Abdus Samee's Github chart" />
+<div style="text-align:center;margin-bottom:10px;">
+  <img height="150" width="700" src="https://ghchart.rshah.org/Abdus-Samee" alt="Abdus Samee's Github chart" />
 </div>
 
 <div class="alert alert-success" role="alert">
