@@ -13,6 +13,12 @@ show_profile: true
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abdus-Samee&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+## GitHub Contributions
+
+<div style="text-align:center;margin-bottom:10px;">
+  <img height="130" width="720" src="https://ghchart.rshah.org/Abdus-Samee" alt="Abdus Samee's Github chart" />
+</div>
+
 ## GitHub Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=portfolio&theme=dark)](https://www.github.com/Abdus-Samee/portfolio)
