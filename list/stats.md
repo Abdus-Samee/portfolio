@@ -7,16 +7,22 @@ show_profile: true
 
 ## Top Languages
 
+<div class="container" markdown="1" style="padding-left:20%;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdus-Samee&layout=compact&theme=dracula)](https://github.com/Abdus-Samee)
+</div>
+
 
 ## Profile Stats
 
+<div class="container" markdown="1" style="padding-left:15%;">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abdus-Samee&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 ## GitHub Contributions
 
 <div style="text-align:center;margin-bottom:10px;">
-  <img height="130" width="720" src="https://ghchart.rshah.org/Abdus-Samee" alt="Abdus Samee's Github chart" />
+  <img height="130" width="700" src="https://ghchart.rshah.org/Abdus-Samee" alt="Abdus Samee's Github chart" />
 </div>
 
 ## GitHub Repositories
