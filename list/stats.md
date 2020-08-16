@@ -7,34 +7,56 @@ show_profile: true
 
 ## Top Languages
 
-<div class="container" markdown="1" style="padding-left:20%;">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdus-Samee&layout=compact&theme=dracula)](https://github.com/Abdus-Samee)
+<div class="card w-90" markdown="1" style="border:none;">
+  <img class="card-img img-fluid" style="height:50%;width:75%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdus-Samee&layout=compact&theme=dracula"/>
 </div>
 
 
 ## Profile Stats
 
-<div class="container" markdown="1" style="padding-left:15%;">
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abdus-Samee&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<div class="card" markdown="1" style="border:none;">
+  <img class="card-img img-fluid" style="height:50%;width:75%;" src="https://github-readme-stats.vercel.app/api?username=Abdus-Samee&show_icons=true&theme=gruvbox"/>
 </div>
 
 
 ## GitHub Contributions
 
-<div style="text-align:center;margin-bottom:10px;">
-  <img height="130" width="700" src="https://ghchart.rshah.org/Abdus-Samee" alt="Abdus Samee's Github chart" />
+<div style="margin-bottom:20px;border:none;">
+  <img class="img-fluid" src="https://ghchart.rshah.org/Abdus-Samee" alt="Abdus Samee's Github chart" />
 </div>
 
 ## GitHub Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=portfolio&theme=dark)](https://www.github.com/Abdus-Samee/portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Wisey&theme=dark)](https://www.github.com/Abdus-Samee/Wisey)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=ScreenShare&theme=dark)](https://www.github.com/Abdus-Samee/ScreenShare)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=JavaFX-Moodle-Project&theme=dark)](https://www.github.com/Abdus-Samee/JavaFX-Moodle-Project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=DX-Ball-Game&theme=dark)](https://www.github.com/Abdus-Samee/DX-Ball-Game)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=pronounce&theme=dark)](https://www.github.com/Abdus-Samee/pronounce)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=bsadd-home&theme=dark)](https://www.github.com/Abdus-Samee/bsadd-home)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Snake&theme=dark)](https://www.github.com/Abdus-Samee/Snake)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=TeamPainter&theme=dark)](https://www.github.com/Abdus-Samee/TeamPainter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=PlayDrum&theme=dark)](https://www.github.com/Abdus-Samee/PlayDrum)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=CV&theme=dark)](https://www.github.com/Abdus-Samee/CV)
+<div class="card" markdown="1" style="border:none;">
+  <a href="https://www.github.com/Abdus-Samee/portfolio"><img class="card-img" style="height:50%;width:75%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=portfolio&theme=dark"/></a>
+</div>
+<div class="card" markdown="1" style="border:none;">
+  <a href="https://www.github.com/Abdus-Samee/Wisey"><img class="card-img" style="height:50%;width:75%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Wisey&theme=dark"/></a>
+</div>
+<div class="card" markdown="1" style="border:none;">
+  <a href="https://www.github.com/Abdus-Samee/ScreenShare"><img class="card-img" style="height:50%;width:75%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=ScreenShare&theme=dark"/></a>
+</div>
+<div class="card" markdown="1" style="border:none;">
+  <a href="https://www.github.com/Abdus-Samee/JavaFX-Moodle-Project"><img class="card-img" style="height:50%;width:75%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=JavaFX-Moodle-Project&theme=dark"/></a>
+</div>
+<div class="card" markdown="1" style="border:none;">
+  <a href="https://www.github.com/Abdus-Samee/DX-Ball-Game"><img class="card-img" style="height:50%;width:75%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=DX-Ball-Game&theme=dark"/></a>
+</div>
+<div class="card" markdown="1" style="border:none;">
+  <a href="https://www.github.com/Abdus-Samee/pronounce"><img class="card-img" style="height:50%;width:75%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=pronounce&theme=dark"/></a>
+</div>
+<div class="card" markdown="1" style="border:none;">
+  <a href="https://www.github.com/Abdus-Samee/bsadd-home"><img class="card-img" style="height:50%;width:75%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=bsadd-home&theme=dark"/></a>
+</div>
+<div class="card" markdown="1" style="border:none;">
+  <a href="https://www.github.com/Abdus-Samee/Snake"><img class="card-img" style="height:50%;width:75%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Snake&theme=dark"/></a>
+</div>
+<div class="card" markdown="1" style="border:none;">
+  <a href="https://www.github.com/Abdus-Samee/TeamPainter"><img class="card-img" style="height:50%;width:75%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=TeamPainter&theme=dark"/></a>
+</div>
+<div class="card" markdown="1" style="border:none;">
+  <a href="https://www.github.com/Abdus-Samee/PlayDrum"><img class="card-img" style="height:50%;width:75%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=PlayDrum&theme=dark"/></a>
+</div>
+<div class="card" markdown="1" style="border:none;">
+  <a href="https://www.github.com/Abdus-Samee/CV"><img class="card-img" style="height:50%;width:75%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=CV&theme=dark"/></a>
+</div>
