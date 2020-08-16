@@ -19,6 +19,13 @@ show_profile: true
 </div>
 
 
+## GitHub Contributions
+
+<div style="margin-bottom:20px;border:none;">
+  <img class="img-fluid" src="https://ghchart.rshah.org/Abdus-Samee" alt="Abdus Samee's Github chart" />
+</div>
+
+
 ## GitHub Repositories
 
 <div style="display:inline;">
