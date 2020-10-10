@@ -38,6 +38,8 @@ show_profile: true
         <li class="list-group-item list-group-item-info">Java</li>
         <li class="list-group-item list-group-item-info">JS(Node, Express)</li>
         <li class="list-group-item list-group-item-info">Python</li>
+        <li class="list-group-item list-group-item-info">Laravel</li>
+        <li class="list-group-item list-group-item-info">Vue.js</li>
       </ul>
     </li>
     <li class="list-group-item"><b>CODING EXPERIENCE:</b>
