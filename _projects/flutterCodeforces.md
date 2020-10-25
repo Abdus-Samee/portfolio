@@ -1,5 +1,5 @@
 ---
-title: Drum playing site
+title: Codeforces Flutter App
 ---
 
 This is a simple flutter application I built as part of my learning. In this app, one can enter a valid codeforces handle and get three types of graphs in three tab views in
