@@ -8,7 +8,7 @@ My second laravel web application created with Laravel framework inspired by a s
 
 ## Views
 
-I am attaching herewith the live link of the website: http://laravel-car-warehouse.herokuapp.com
+I am attaching herewith the live link of the [website](http://laravel-car-warehouse.herokuapp.com).
 
 I tried to portray variuous features of a car buying-selling website in a beginner level. I aimed at using various inbuilt features of Laravel and shape up my knowledge. I tried
 to:
