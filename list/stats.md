@@ -38,7 +38,7 @@ show_profile: true
   <a href="https://www.github.com/Abdus-Samee/ScreenShare"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=ScreenShare&theme=dark"/></a>
 </div>
 <div style="display:inline;">
-  <a href="https://www.github.com/Abdus-Samee/JavaFX-Moodle-Project"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=JavaFX-Moodle-Project&theme=dark"/></a>
+  <a href="https://www.github.com/Abdus-Samee/JavaFX-Moodle-Project"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=JavaFX-Car-Warehouse&theme=dark"/></a>
 </div>
 <div style="display:inline;">
   <a href="https://www.github.com/Abdus-Samee/DX-Ball-Game"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=DX-Ball-Game&theme=dark"/></a>
