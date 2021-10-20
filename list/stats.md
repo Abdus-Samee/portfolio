@@ -32,7 +32,7 @@ show_profile: true
   <a href="https://www.github.com/Abdus-Samee/portfolio"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=portfolio&theme=dark"/></a>
 </div>
 <div style="display:inline;">
-  <a href="https://www.github.com/Abdus-Samee/Wisey"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Wisey&theme=dark"/></a>
+  <a href="https://github.com/Abdus-Samee/Blood-Donation"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Blood-Donation&theme=dark"/></a>
 </div>
 <div style="display:inline;">
   <a href="https://www.github.com/Abdus-Samee/ScreenShare"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=ScreenShare&theme=dark"/></a>
@@ -50,14 +50,11 @@ show_profile: true
   <a href="https://www.github.com/Abdus-Samee/bsadd-home"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=bsadd-home&theme=dark"/></a>
 </div>
 <div style="display:inline;">
-  <a href="https://www.github.com/Abdus-Samee/Snake"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Snake&theme=dark"/></a>
+  <a href="https://github.com/Abdus-Samee/Codeforces-Api-Flutter-App"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Codeforces-Api-Flutter-App&theme=dark"/></a>
 </div>
 <div style="display:inline;">
   <a href="https://www.github.com/Abdus-Samee/TeamPainter"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=TeamPainter&theme=dark"/></a>
 </div>
 <div style="display:inline;">
   <a href="https://www.github.com/Abdus-Samee/PlayDrum"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=PlayDrum&theme=dark"/></a>
-</div>
-<div style="display:inline;">
-  <a href="https://www.github.com/Abdus-Samee/CV"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=CV&theme=dark"/></a>
 </div>
