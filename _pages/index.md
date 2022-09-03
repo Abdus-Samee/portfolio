@@ -20,9 +20,9 @@ title: Welcome to my Website
 
 ## Introduction
 
-I built this website in order to showcase my works and passion. I wrote about projects I made basically about programming and related questions so that people can reach out to me in any case.
+Hello. This is Abdus Samee. I’m pursuing my B.Sc. degree in Computer Science & Engineering(CSE) from Bangladesh Engineering & Technology(BUET). I’m currently in the fifth semester. I built this website in order to showcase my works.
 
-I have provided links to my various sites. So use them if necessary and do give them a visit!
+I have provided links to my various sites. Do give them a visit!
 
 <hr/>
 
@@ -32,6 +32,6 @@ I have provided links to my various sites. So use them if necessary and do give 
 {% include components/post-card.html %}
 {% endfor %}
 
-<div class="alert alert-success" role="alert">
+<!-- <div class="alert alert-success" role="alert">
   Don't forget to subscribe to my <a target = "_blank" href="https://rocky-mesa-67884.herokuapp.com/" class="alert-link">NewsLetter</a>. Give it a click if you like.
-</div>
+</div> -->
