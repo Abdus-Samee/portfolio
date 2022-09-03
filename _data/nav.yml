@@ -1,9 +1,6 @@
 - title: Home
   href: index.html
 
-- title: About
-  href: about.html
-
 - title: Posts
   href: list/index.html
 
@@ -15,6 +12,3 @@
 
 - title: CV
   href: list/cv.html
-
-- title: Gallery
-  href: list/gallery.html
