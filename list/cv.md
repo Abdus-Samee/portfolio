@@ -46,11 +46,20 @@ show_profile: true
       <ul class="list-group">
         <li class="list-group-item">Built JavaFX application with socket programming</li>
         <li class="list-group-item">Made node.js app with server hosted on cloud</li>
-        <li class="list-group-item">Built interactive websites</li>
+        <li class="list-group-item">Worked with the Laravel framework</li>
+        <li class="list-group-item">Contributed in hardware projects built with arduino and microprocessor</li>
       </ul>
     </li>
     <li class="list-group-item"><b>WORKING EXPERIENCE:</b>
       <div class="list-group">
+        <div class="list-group-item">
+          <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Member at HackMerced</h5>
+            <small>Ongoing</small>
+          </div>
+          <p class="mb-1">Engineering team member and an organizer of hackathon</p>
+          <small>Maintenance of <a target="_blank" href="https://hackmerced.com/">website</a></small>
+        </div>
         <div class="list-group-item">
           <div class="d-flex w-100 justify-content-between">
             <h5 class="mb-1">Volunteer at BSADD</h5>
@@ -61,7 +70,7 @@ show_profile: true
         </div>
         <div class="list-group-item">
           <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1">Member at BCC</h5>
+            <h5 class="mb-1">Executive Member at BCC</h5>
             <small>Ongoing</small>
           </div>
           <p class="mb-1">Thriving to build a good network among people with Buet Career Club</p>
