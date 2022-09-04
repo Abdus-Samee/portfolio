@@ -9,7 +9,7 @@ images:
 ---
 
 <b>Wonder Hand</b> - my first hardware project! I, along with my two other team mates, built this gesture controlled Arduino project for our course
-<i>Microprocessors, Microcontrollers, and Embedded Systems</i>. This was my first time using an Arduino. It was fun doing the project.
+<i>CSE - 316: Microprocessors, Microcontrollers, and Embedded Systems</i>. This was my first time using an Arduino. It was fun doing the project.
 
 <!--more-->
 
