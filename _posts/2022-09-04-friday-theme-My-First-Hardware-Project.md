@@ -3,9 +3,9 @@ title: My First Hardware Project!
 tags:
   - code
 images:
-  - /portfolio/theme/img/hardware1.PNG
-  - /portfolio/theme/img/hardware2.PNG
-  - /portfolio/theme/img/hardware3.PNG
+  - /theme/img/hardware1.PNG
+  - /theme/img/hardware2.PNG
+  - /theme/img/hardware3.PNG
 ---
 
 <b>Wonder Hand</b> - my first hardware project! I, along with my two other team mates, built this gesture controlled Arduino project for our course
