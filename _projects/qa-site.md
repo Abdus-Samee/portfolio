@@ -1,11 +1,11 @@
 ---
 title: A Dynamic Q/A site
 images:
-  - /portfolio/theme/img/stack1.png
-  - /portfolio/theme/img/stack2.png
-  - /portfolio/theme/img/stack3.png
-  - /portfolio/theme/img/stack4.png
-  - /portfolio/theme/img/stack5.png
+  - /theme/img/stack1.png
+  - /theme/img/stack2.png
+  - /theme/img/stack3.png
+  - /theme/img/stack4.png
+  - /theme/img/stack5.png
 ---
 
 It is a backend supported website I created as a copy of [Stack Overflow](https://stackoverflow.com/). It is a Q/A site, supported by user authorization.
