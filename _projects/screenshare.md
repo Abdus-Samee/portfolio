@@ -1,9 +1,9 @@
 ---
 title: Screen sharing between two PCs using Java
 images:
-  - /portfolio/theme/img/sc-share1.png
-  - /portfolio/theme/img/sc-share2.png
-  - /portfolio/theme/img/sc-share3.png
+  - /theme/img/sc-share1.png
+  - /theme/img/sc-share2.png
+  - /theme/img/sc-share3.png
 ---
 
 This is a project I developed using Java and its library JavaFX. In this program, there is a single server and a single client. It is at the time being a one-way communication. I will try my utmost to develop this into a two-way screen sharing. In addition, I will try to enable remote desktop control via mouse click too.
