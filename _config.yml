@@ -14,7 +14,7 @@ author:           Abdus Samee
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
-baseurl: "/portfolio"
+baseurl: ""
 url: ""
 
 paginate: 3
