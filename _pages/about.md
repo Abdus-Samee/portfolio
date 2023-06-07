@@ -7,7 +7,7 @@ title: About Myself
 
 ## Introduction
 
-Hello. It's Abdus Samee. I'm pursuing a B.Sc. degree in Computer Science & Engineering(CSE) from Bangladesh Engineering & Technology(BUET). I'm currently in the first semester.
+Hello. It's Abdus Samee. I'm pursuing a B.Sc. degree in Computer Science & Engineering(CSE) from Bangladesh Engineering & Technology(BUET). I'm currently in the 7th(out of 8) semester.
 
 ## Purpose of the website
 
