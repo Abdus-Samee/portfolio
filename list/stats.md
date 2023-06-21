@@ -26,7 +26,7 @@ show_profile: true
 </div>
 
 
-## GitHub Repositories
+<!--## GitHub Repositories
 
 <div style="display:inline;">
   <a href="https://www.github.com/Abdus-Samee/portfolio"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=portfolio&theme=dark"/></a>
