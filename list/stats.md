@@ -25,36 +25,3 @@ show_profile: true
   <img class="img-fluid" src="https://ghchart.rshah.org/Abdus-Samee" alt="Abdus Samee's Github chart" />
 </div>
 
-
-<!--## GitHub Repositories
-
-<div style="display:inline;">
-  <a href="https://www.github.com/Abdus-Samee/portfolio"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=portfolio&theme=dark"/></a>
-</div>
-<div style="display:inline;">
-  <a href="https://github.com/Abdus-Samee/Blood-Donation"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Blood-Donation&theme=dark"/></a>
-</div>
-<div style="display:inline;">
-  <a href="https://www.github.com/Abdus-Samee/ScreenShare"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=ScreenShare&theme=dark"/></a>
-</div>
-<div style="display:inline;">
-  <a href="https://www.github.com/Abdus-Samee/JavaFX-Car-Warehouse"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=JavaFX-Car-Warehouse&theme=dark"/></a>
-</div>
-<div style="display:inline;">
-  <a href="https://www.github.com/Abdus-Samee/DX-Ball-Game"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=DX-Ball-Game&theme=dark"/></a>
-</div>
-<div style="display:inline;">
-  <a href="https://www.github.com/Abdus-Samee/pronounce"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=pronounce&theme=dark"/></a>
-</div>
-<div style="display:inline;">
-  <a href="https://www.github.com/Abdus-Samee/bsadd-home"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=bsadd-home&theme=dark"/></a>
-</div>
-<div style="display:inline;">
-  <a href="https://github.com/Abdus-Samee/Codeforces-Api-Flutter-App"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Codeforces-Api-Flutter-App&theme=dark"/></a>
-</div>
-<div style="display:inline;">
-  <a href="https://www.github.com/Abdus-Samee/TeamPainter"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=TeamPainter&theme=dark"/></a>
-</div>
-<div style="display:inline;">
-  <a href="https://www.github.com/Abdus-Samee/PlayDrum"><img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=PlayDrum&theme=dark"/></a>
-</div>
