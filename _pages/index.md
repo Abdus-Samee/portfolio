@@ -20,7 +20,7 @@ title: Welcome to my Website
 
 ## Introduction
 
-Hello. This is Abdus Samee. I’m pursuing my B.Sc. degree from the [Department of Computer Science & Engineering, Bangladesh Engineering & Technology(BUET)](https://cse.buet.ac.bd/). I’m currently in the 7th semester (out of 8). I built this website in order to showcase my works.
+Hello. This is Abdus Samee. I’m pursuing my B.Sc. degree from the [Department of Computer Science & Engineering, Bangladesh Engineering & Technology(BUET)](https://cse.buet.ac.bd/). I’m a senior and currently in the last semester(8th).
 
 I have provided links to my various sites. Do give them a visit!
 
