@@ -18,9 +18,7 @@ title: Welcome to my Website
 <script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"/>
 
-## Introduction
-
-Hello. This is Abdus Samee. I’m pursuing my B.Sc. degree from the [Department of Computer Science & Engineering, Bangladesh Engineering & Technology(BUET)](https://cse.buet.ac.bd/). I’m a senior and currently in the last semester(8th).
+Hello. This is Abdus Samee. I’m pursuing my B.Sc. degree from the [Department of Computer Science & Engineering, Bangladesh Engineering & Technology(BUET)](https://cse.buet.ac.bd/). I’m a senior and currently in the last semester(8th). I love doing Web Development. My research interests are *Federated Learning*, *Human-Computer Interaction*, and *Software Engineering*.
 
 I have provided links to my various sites. Do give them a visit!
 
