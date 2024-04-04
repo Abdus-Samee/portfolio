@@ -25,11 +25,11 @@ show_profile: true
   <div class = "card-body">
     <h3 class = "card-title">
       <a href = "">
-        Noteeline: Personalized and Contextualized Note-taking Tool
+        NoTeeline: Supporting Real-Time Notetaking from Keypoints with Large Language Models
       </a>
     </h3>
     <div class="card-text font-weight-light mb-0">
-       Faria Huq, David Chuan-En Lin, Abdus Samee, Jeffrey Bigham
+       Faria Huq<b>*</b>, Abdus Samee<b>*</b>, David Chuan-En Lin, Xiaodi Alice Tang, Jeffrey Bigham
     </div>
     <span class="badge badge-info">Ongoing</span>
   </div>
