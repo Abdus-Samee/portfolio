@@ -7,7 +7,9 @@
         <div class="collapse navbar-collapse" id="navbarContent">
             <ul class="navbar-nav ml-auto">
             {% for item in site.data.nav %}
-                <li class="nav-item">
+                {% assign current_url = page.url | remove: 'index.html' %}
+                {% assign nav_url = item.url | remove: 'index.html' %}
+                <li class="nav-item" {% if current_url == nav_url %}class="active"{% endif %}>
                     <a href='{% if item.href contains ":" %}{% else %}{{ site.baseurl }}/{% endif %}{{ item.href }}'
                        class="nav-link">
                         {{ item.title }}
