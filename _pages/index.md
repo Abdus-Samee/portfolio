@@ -2,7 +2,6 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to my Website
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -18,7 +17,7 @@ title: Welcome to my Website
 <script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"/>
 
-Hello. This is Abdus Samee. I’m pursuing my B.Sc. degree from the [Department of Computer Science & Engineering, Bangladesh Engineering & Technology(BUET)](https://cse.buet.ac.bd/). I’m a senior and currently in the last semester(8th). I love doing Web Development. My research interests are *Federated Learning*, *Human-Computer Interaction*, and *Software Engineering*.
+Hello. This is Abdus Samee. I have obtained B.Sc. degree from the [Department of Computer Science & Engineering, Bangladesh Engineering & Technology(BUET)](https://cse.buet.ac.bd/). I am currently working as a Junior Software Engineer at [WSD](https://wsd.com/). I am a member of the Documents team from London and working on structured documents. I also like academics. My research interests are *Federated Learning*, *Human-Computer Interaction*, and *Software Engineering*.
 
 I have provided links to my various sites. Do give them a visit!
 
