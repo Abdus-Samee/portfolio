@@ -8,7 +8,7 @@ show_profile: true
 <div class = "card mb-2">
   <div class = "card-body">
     <h3 class = "card-title">
-      <a href = "">
+      <a _blank href="https://ieeexplore.ieee.org/document/10189162">
         Zero-shot prompting for code complexity prediction using GitHub copilot
       </a>
     </h3>
@@ -24,7 +24,7 @@ show_profile: true
 <div class = "card mb-2">
   <div class = "card-body">
     <h3 class = "card-title">
-      <a href = "">
+      <a _blank href="https://arxiv.org/abs/2409.16493">
         NoTeeline: Supporting Real-Time Notetaking from Keypoints with Large Language Models
       </a>
     </h3>
