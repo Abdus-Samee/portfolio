@@ -21,6 +21,7 @@ show_profile: true
   </div>
 </div>
 
+<!---
 <div class = "card mb-2">
   <div class = "card-body">
     <h3 class = "card-title">
@@ -34,3 +35,4 @@ show_profile: true
     <span class="badge badge-info">Ongoing</span>
   </div>
 </div>
+--->
