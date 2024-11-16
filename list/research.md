@@ -8,7 +8,7 @@ show_profile: true
 <div class = "card mb-2">
   <div class = "card-body">
     <h3 class = "card-title">
-      <a _blank href="https://ieeexplore.ieee.org/document/10189162">
+      <a target = '_blank' href="https://ieeexplore.ieee.org/document/10189162">
         Zero-shot prompting for code complexity prediction using GitHub copilot
       </a>
     </h3>
@@ -17,6 +17,22 @@ show_profile: true
     </div>
     <div class="card-text font-weight-light mb-0">
         2023 IEEE/ACM 2nd International Workshop on Natural Language-Based Software Engineering (NLBSE)
+    </div>
+  </div>
+</div>
+
+<div class = "card mb-2">
+  <div class = "card-body">
+    <h3 class = "card-title">
+      <a target = '_blank' href="{{ site.baseurl }}{% link list/Extended_Abstract.pdf %}">
+        Hybrid Synchronization Approach with Dynamic Weight Allocation for Secure Federated Learning
+      </a>
+    </h3>
+    <div class="card-text mb-0">
+        Abdus Samee, Dr. Muhammad Abdullah Adnan
+    </div>
+    <div class="card-text font-weight-light mb-0">
+        Undergrad Thesis
     </div>
   </div>
 </div>
